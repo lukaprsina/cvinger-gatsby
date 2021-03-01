@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(a,e,t){"use strict";t.r(e);var n=t("q1tI"),r=t.n(n),o=t("ofer"),c=t("mc/u");e.default=function(){return r.a.createElement(c.a,{title:"404"},r.a.createElement(o.a,{variant:"body1"},"Ta stran ne obstaja."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-5b30285ac840b3521e15.js.map
